@@ -1,1 +1,1 @@
-This is a DataCampproject on data visualization.
+This is a DataCamp project on data visualization.
